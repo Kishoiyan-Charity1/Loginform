@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    padding-top: 70px;
+
+
+
+    background-color: rgb(94, 238, 94);
+}
+.fill-form{
+    width: 250px;
+    height: auto;
+    padding: 30px 40px;
+    background-color: rgb(167, 250, 164);
+    border-radius: 10px;
+    box-shadow:0 0 10px rgb(58, 110, 58) ;
+    margin: auto;
+    position: relative;
+
+
+}
+.user-img{
+    background: url(/images/images.jpeg) no-repeat;
+    width: 80px;
+    height: 80px;
+    background-size: 100%;
+    position: absolute;
+    top: -40px;
+    left: 130px;
+
+
+
+
+
+}
+
+ul.list{
+    list-style: none;
+    text-align: center;
+    
+    
+   
+
+}
+
+ul.list id{
+    width: 250px;
+   
+}
+ul.list id input{
+  width: 180px;
+  text-align: center;
+  padding: 10px 0;
+  border-radius: 5px rgb(4, 104, 4);
+  background-color: #bebaba;
+  border: none;
+  margin: 5px;
+  border-radius: 5px;
+
+}
+ul.list id:nth-child(5){
+    color: rgb(228, 26, 26);
+}
+ul.list id input[type="button"]{
+    background-color: rgb(228, 69, 69);
+}
+
+
+
+
+
+
+
+
+
